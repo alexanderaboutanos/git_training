@@ -2,4 +2,8 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 There's something else I'd like you to know..
 Is it this?
 - Wait who are you?
+<<<<<<< HEAD
 - I'm the savage of Rabun County...
+=======
+- not who you think I am!
+>>>>>>> ce914de9c73b3b1e29dab25b7d665bb68a6e12ab
